@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Khiti Prakash Rout</h1>
 <h3 align="center">A passionate Software Tester</h3>
 
+- 🔭 I’m currently working on **I am currently working on a SAAS project**
+
+- 💬 Ask me about **I’m a dedicated Software Test Engineer with 3 automation testing and 4 month in Manual Testing. I specialize in Selenium WebDriver with Java, TestNG framework, and have a strong background in data-driven testing methodologies. My work on the SAAS Project led to a 30% reduction in testing time, demonstrating my ability to enhance testing efficiency. I am now looking to contribute to a dynamic team where I can further hone my automation skills and help deliver high-quality software solutions. I am detail-oriented, proactive, and thrive in Agile environments." This "About Me" statement gives a clear, concise snapshot of your professional identity, strengths, and aspirations, making it a powerful introduction to your resume or LinkedIn profile.**
+
 - 📫 How to reach me **kprout95@gmail.com**
 
 - 📄 Know about my experiences [I have 3.5 years of experience in Manual and Automation Testing field.](I have 3.5 years of experience in Manual and Automation Testing field.)
